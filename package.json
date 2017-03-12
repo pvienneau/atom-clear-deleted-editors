@@ -1,4 +1,4 @@
 {
-    "name": "aotm-clear-deleted-editors",
+    "name": "atom-clear-deleted-editors",
     "main": "./lib/main"
 }
