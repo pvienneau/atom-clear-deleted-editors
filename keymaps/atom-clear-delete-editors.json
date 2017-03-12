@@ -1,0 +1,5 @@
+{
+    "atom-workspace": {
+        "cmd-shift-m": "atom-clear-deleted-editors:clean"
+    }
+}
