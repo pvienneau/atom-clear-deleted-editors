@@ -1,13 +1,13 @@
 {
-    "name": "atom-clear-deleted-editors",
-    "description": "Automatically close the appropriate editor tabs when a project directory is deleted.",
-    "version": "0.0.0",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/pvienneau/atom-clear-deleted-editors"
-    },
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    },
-    "main": "./lib/main"
+  "name": "atom-clear-deleted-editors",
+  "description": "Automatically close the appropriate editor tabs when a project directory is deleted.",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pvienneau/atom-clear-deleted-editors"
+  },
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "main": "./lib/main"
 }
